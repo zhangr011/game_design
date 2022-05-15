@@ -15,3 +15,6 @@
 
 ### 奇思妙想
 - [随笔](https://gitee.com/zhangr011/game_design/blob/master/%E9%9A%8F%E7%AC%94.md)
+
+### INF
+- [INF](https://gitee.com/zhangr011/game_design/blob/master/INF/.md)
